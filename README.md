@@ -2,41 +2,48 @@
 
 ### Engineering Management | Technology & Project Management | AI & Emerging Technology
 
-I am an Engineering Management professional with a background in Civil Engineering, currently pursuing an M.Tech in Engineering Management.
+I am an Engineering Management professional with a Civil Engineering background, currently pursuing an M.Tech in Engineering Management.
 
-My focus is on the intersection of **technology, people, projects, and execution**. I am building technical fluency across **AI, cloud computing, embedded systems, VLSI, data, and emerging technologies** while developing the project and product-management capabilities needed to help technical teams turn ideas into delivered outcomes.
+My focus is the intersection of **technology, people, projects, and execution**. I am building technical fluency across AI, data, cloud, embedded systems, semiconductors and emerging technologies while developing the project and product-management skills needed to help technical teams turn ideas into delivered outcomes.
 
 ---
 
 ## 🎯 What I'm Building Toward
 
-I am interested in roles across:
+I am interested in:
 
 - Technology & Project Management
 - Product Management
 - AI and Emerging Technology
 - Technology Consulting
-- Sustainable Technology
+- Sustainable and inclusive technology
 
-My goal is to become a strong bridge between **technical teams, business stakeholders, and project execution**.
-
-I am not trying to present myself as a software engineer. Instead, I am deliberately developing enough technical depth to understand systems, communicate with engineers, contribute to technical decisions, and lead technology initiatives effectively.
+I am deliberately building enough technical depth to understand systems, communicate with engineers, contribute to technical decisions, and lead technology initiatives effectively.
 
 ---
 
-## 🧭 My Technology Focus
+## 🚀 Featured Technical Build
 
-| Area | What I'm exploring |
-|---|---|
-| 🤖 **AI & LLMs** | AI applications, LLM workflows, automation, evaluation and adoption |
-| ☁️ **Cloud** | Cloud fundamentals, architecture, APIs and digital systems |
-| 🔌 **Embedded Systems** | Hardware-software interaction, systems thinking and project execution |
-| 🧠 **VLSI & Semiconductors** | Semiconductor ecosystem, technology lifecycle and project management |
-| 📊 **Data & Analytics** | Excel, SQL, data-driven decision making and analytical workflows |
-| 📋 **Technology Management** | Requirements, roadmaps, risks, stakeholders and delivery |
-| ⚛️ **Emerging Technology** | AI, quantum computing and technology workforce transformation |
-| 🌱 **Sustainable Technology** | Technology implementation with sustainability and resource efficiency |
-| ♿ **Inclusive Technology** | Accessibility, universal design and technology for inclusion |
+### [AI Workforce Intelligence](https://github.com/christos777-PM/ai-workforce-intelligence)
+
+A research-oriented Python prototype that converts technology job descriptions into structured workforce capability signals.
+
+**Current stack:** Python · Git/GitHub · CLI · CSV · automated testing · GitHub Actions
+
+**What it demonstrates:**
+- Deterministic skill extraction
+- Versioned capability taxonomy
+- Role-level analysis
+- Capability frequency analysis
+- Skills-gap primitives
+- JSON output
+- Automated tests
+- CI across Python 3.10–3.13
+- Documented methodology and limitations
+
+This project is the technical companion to my research on **human-capital transitions driven by AI and Quantum Computing in India**.
+
+> Research question → data → technical prototype → evidence → management insight.
 
 ---
 
@@ -44,9 +51,9 @@ I am not trying to present myself as a software engineer. Instead, I am delibera
 
 ### Human Capital Transitions in the Computational Industry
 
-My current research explores the human-capital implications of **Artificial Intelligence and Quantum Computing in India**, with particular interest in workforce readiness and the emerging technology ecosystem.
+My research explores the human-capital implications of **Artificial Intelligence and Quantum Computing in India**, with particular interest in workforce readiness and the emerging technology ecosystem.
 
-Key themes include:
+Key themes:
 
 - AI-driven workforce transformation
 - Quantum computing readiness
@@ -56,64 +63,54 @@ Key themes include:
 - Organizational change
 - Technology adoption
 - Workforce transition
-- India's emerging quantum ecosystem
 
-The central question I am exploring is:
+---
 
-> **How can organizations prepare their people for technologies that are changing faster than traditional workforce planning models?**
+## 🧭 Technology Focus
+
+| Area | Current focus |
+|---|---|
+| 🤖 **AI & LLMs** | AI applications, LLM workflows, automation and evaluation |
+| 📊 **Data & Analytics** | Excel, SQL, Python and analytical workflows |
+| ☁️ **Cloud** | Cloud fundamentals, APIs, architecture and digital systems |
+| 🧠 **Semiconductors** | VLSI ecosystem, technology lifecycle and workforce requirements |
+| 🔌 **Embedded Systems** | Hardware-software interaction and systems thinking |
+| 📋 **Technology Management** | Requirements, roadmaps, risks, stakeholders and delivery |
+| ⚛️ **Emerging Technology** | AI, quantum computing and workforce transformation |
+| 🌱 **Sustainability** | Sustainable technology implementation |
+| ♿ **Inclusive Technology** | Accessibility and universal design |
 
 ---
 
 ## 🛠️ Technology & Management Toolkit
 
-### Technology
-AI / LLMs · Cloud fundamentals · Git & GitHub · APIs · Automation · Emerging technology research
+**Technology:** Python · Git & GitHub · APIs · AI/LLMs · Automation · Emerging technology research
 
-### Data
-Microsoft Excel · SQL *(developing)* · Python *(developing)* · Data analysis *(developing)*
+**Data:** Microsoft Excel · SQL · Python · Data analysis
 
-### Project & Product Management
-Microsoft Project & Planner · Jira · Asana · Wrike · Slack · Procore · Requirements management · Stakeholder management · Risk management · Project planning
+**Project & Product Management:** Microsoft Project & Planner · Jira · Asana · Wrike · Slack · Procore · Requirements management · Stakeholder management · Risk management
 
-### Engineering
-Systems thinking · Technical feasibility · Project lifecycle management · Technical documentation · Sustainability · Accessibility & universal design
+**Engineering:** Systems thinking · Technical feasibility · Project lifecycle management · Technical documentation · Sustainability · Accessibility & universal design
 
 ---
 
 ## 📚 Portfolio
 
-This profile is being developed as a working portfolio rather than a collection of tutorial projects.
+### [AI Workforce Intelligence](https://github.com/christos777-PM/ai-workforce-intelligence)
+Technical prototype for analyzing skills and workforce requirements in emerging technology roles.
 
-### 🤖 AI & Quantum Human Capital
-Research and analytical work examining how AI and quantum computing may reshape skills, jobs, and workforce strategy in India.
+### [AI & Quantum Human Capital](https://github.com/christos777-PM/ai-quantum-human-capital)
+Research repository supporting my work on AI, quantum computing and human-capital transitions in India.
 
-### 🧠 AI & LLM Applications
-Practical experiments exploring how AI can improve knowledge work, project workflows, decision support, and organizational processes.
-
-### ☁️ Cloud Technology Lab
-Hands-on exploration of cloud concepts, APIs, system architecture, and technology implementation.
-
-### 🔌 Embedded Systems Lab
-Foundational work exploring embedded systems, hardware-software interaction, system requirements, and technical project management.
-
-### 🧩 VLSI & Semiconductor Technology
-Exploration of semiconductor technology, the VLSI lifecycle, industry structure, workforce requirements, and project-management challenges.
-
-### 📋 Technology Project Management Toolkit
-Reusable frameworks for requirements, roadmaps, stakeholder management, risk, delivery, technical documentation, and technology project execution.
-
-### 💻 Technical Foundations
-A transparent record of my progression in Python, SQL, APIs, Git, data, and other technical foundations.
+More technical projects will be added as they become real, documented builds rather than placeholders.
 
 ---
 
 ## 🌱 How I Learn
 
-**Understand → Experiment → Build → Document → Reflect → Improve**
+**Understand → Experiment → Build → Test → Document → Reflect → Improve**
 
-Some projects here will demonstrate capabilities I already have. Others will document capabilities I am actively developing.
-
-I value **adaptability, structured problem solving, collaboration, and the ability to learn quickly** alongside technical knowledge.
+I value structured problem solving, adaptability, collaboration and the ability to learn quickly alongside technical knowledge.
 
 ---
 
@@ -136,6 +133,6 @@ These experiences shape how I think about technology: not simply as something to
 
 I am interested in conversations around:
 
-**AI · Emerging Technology · Technology Management · Project Management · Cloud · VLSI · Embedded Systems · Sustainability · Accessibility · Human Capital**
+**AI · Emerging Technology · Technology Management · Project Management · Cloud · Semiconductors · Embedded Systems · Sustainability · Accessibility · Human Capital**
 
 Thanks for visiting my profile.
