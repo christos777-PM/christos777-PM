@@ -35,11 +35,13 @@ A research-oriented Python prototype that converts technology job descriptions i
 - Versioned capability taxonomy
 - Role-level analysis
 - Capability frequency analysis
-- Skills-gap primitives
-- JSON output
-- Automated tests
-- CI across Python 3.10–3.13
+- Skills-gap analysis against a target role
+- Transparent role ranking by target-skill coverage, with matched and missing skills
+- Machine-readable JSON output
+- CLI regression tests and CI across Python 3.10–3.13
 - Documented methodology and limitations
+
+The ranking is a description-level coverage signal, not a measure of a person's competence, employability or suitability. Results depend on the source sample, taxonomy and matching rules.
 
 This project is the technical companion to my research on **human-capital transitions driven by AI and Quantum Computing in India**.
 
@@ -97,7 +99,7 @@ Key themes:
 ## 📚 Portfolio
 
 ### [AI Workforce Intelligence](https://github.com/christos777-PM/ai-workforce-intelligence)
-Technical prototype for analyzing skills and workforce requirements in emerging technology roles.
+Technical prototype for analyzing skills and workforce requirements in emerging technology roles, including target-role gap analysis and transparent role-description ranking.
 
 ### [AI & Quantum Human Capital](https://github.com/christos777-PM/ai-quantum-human-capital)
 Research repository supporting my work on AI, quantum computing and human-capital transitions in India.
