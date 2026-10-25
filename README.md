@@ -102,7 +102,7 @@ Key themes:
 Technical prototype for analyzing skills and workforce requirements in emerging technology roles, including target-role gap analysis and transparent role-description ranking.
 
 ### [AI & Quantum Human Capital](https://github.com/christos777-PM/ai-quantum-human-capital)
-Research repository supporting my work on AI, quantum computing and human-capital transitions in India.
+Research repository supporting my work on AI, quantum computing and human-capital transitions in India. It now includes a [reproducible benchmark evaluator](https://github.com/christos777-PM/ai-quantum-human-capital/blob/main/data/benchmark/README.md) with per-role, micro and macro F1 metrics, input validation tests, and Python 3.10–3.13 CI. The bundled examples are synthetic fixtures, not empirical workforce findings.
 
 More technical projects will be added as they become real, documented builds rather than placeholders.
 
