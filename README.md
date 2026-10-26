@@ -38,6 +38,7 @@ A research-oriented Python prototype that converts technology job descriptions i
 - Skills-gap analysis against a target role
 - Transparent role ranking by target-skill coverage, with matched and missing skills
 - Machine-readable JSON output
+- JSONL prediction export for reproducible benchmark evaluation
 - CLI regression tests and CI across Python 3.10–3.13
 - Documented methodology and limitations
 
@@ -102,7 +103,7 @@ Key themes:
 Technical prototype for analyzing skills and workforce requirements in emerging technology roles, including target-role gap analysis and transparent role-description ranking.
 
 ### [AI & Quantum Human Capital](https://github.com/christos777-PM/ai-quantum-human-capital)
-Research repository supporting my work on AI, quantum computing and human-capital transitions in India. It now includes a [reproducible benchmark evaluator](https://github.com/christos777-PM/ai-quantum-human-capital/blob/main/data/benchmark/README.md) with per-role, micro and macro F1 metrics, input validation tests, and Python 3.10–3.13 CI. The bundled examples are synthetic fixtures, not empirical workforce findings.
+Research repository supporting my work on AI, quantum computing and human-capital transitions in India. It now includes a [reproducible benchmark evaluator](https://github.com/christos777-PM/ai-quantum-human-capital/blob/main/data/benchmark/README.md) with per-role, micro and macro F1 metrics, input validation tests, and Python 3.10–3.13 CI. A synthetic end-to-end smoke-test runner connects the companion CLI's JSONL export to the evaluator, with a dedicated workflow checking role-ID alignment and metric output. The bundled examples are synthetic fixtures, not empirical workforce findings or proof of real-world model quality.
 
 More technical projects will be added as they become real, documented builds rather than placeholders.
 
